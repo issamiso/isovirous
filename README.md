@@ -10,8 +10,11 @@ pkg install git -y&&https://github.com/issamiso/isovirous&&cd isovirous&&chmod +
 * nn 
 % sjkd
 / jdjd
-> dkdk
-_ dnfnf
-! xkdkc
-? dmdmmf 
-• djcjkv
+> dkd
+
+\ |sjdj 
+< djfjcjv
+. ndjdjf
+, dndnfkdkd
+: jsjfjcj
+; djdjfjfjf
